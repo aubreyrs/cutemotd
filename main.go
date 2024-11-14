@@ -23,11 +23,11 @@ const (
 	transWhite = "\033[38;2;255;255;255m"
 )
 
-const catAscii = `%s        '   '  %s
-%s       { \w/ }%s %s★ %s ★%s
-%s        '>!<' %s %s☆ %s ☆%s
-%s        (/^\) %s %s★ %s ★%s
-%s        '   ' %s`
+const catAscii = `%s    '   '  %s
+%s   { \w/ }%s %s★ %s ★%s
+%s    '>!<' %s %s☆ %s ☆%s
+%s    (/^\) %s %s★ %s ★%s
+%s    '   ' %s`
 
 type motdInfo struct {
 	username string
