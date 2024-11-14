@@ -24,11 +24,11 @@ const (
 )
 
 const catAscii = `
-%s  ,   ,       %s
-%s { \w/ }     %s %s★ %s ★%s
-%s  '>!<'      %s %s☆ %s ☆%s
-%s  (/^\)      %s %s★ %s ★%s
-%s  '   '      %s
+%s  ,   ,   %s
+%s { \w/ } %s %s★ %s ★%s
+%s  '>!<'  %s %s☆ %s ☆%s
+%s  (/^\)  %s %s★ %s ★%s
+%s  '   '  %s
 
 `
 
